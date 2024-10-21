@@ -48,7 +48,6 @@ export default function Root() {
                         : ""
                     }
                   >
-                    {/* other code */}
                   </NavLink>
                 </li>
               ))}
